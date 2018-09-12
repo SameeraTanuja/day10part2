@@ -1,0 +1,49 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+    <%@ taglib uri="http://java.sun.com/jstl/core_rt" prefix="c"%>
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>update employee details</title>
+</head>
+<body bgcolor="lavender">
+	<h1>Add new employee</h1>
+	<hr>
+	<form action="update" method="post">
+	
+	
+	<label>Employee ID:</label>
+	<input type="number" name="empId" value="${employee.employeeId }" readonly required/>
+	<br>
+	
+	
+	<label>Employee Name:</label>
+	<input type="text" name="empName" value="${employee.employeename }" required/>
+	<br>
+	
+	
+	
+	
+	<label>Employee Salary:</label>
+	<input type="number" name="empSalary" value="${employee.employeeSalary}"required/>
+	<br>
+	
+	
+	<label>Employee Department:</label>
+	<select  name="empDepartment" required>
+	 <option value="${employee.employeeDepartment }"> ${employee.employeeDepartment } </option> 
+		<option value="IT">IT</option>
+		<option value="HR">HR</option>
+		<option value="Admin">ADMIN</option>
+		<option value="System">HR</option>
+	
+	</select>
+	<br>
+	
+	<input type="submit" value="SUBMIT">
+	
+	</form>
+</body>
+</html>

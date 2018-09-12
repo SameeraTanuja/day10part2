@@ -1,0 +1,47 @@
+package com.capgemini.employee;
+
+public class Employee {
+	private long employeeId;
+	private String employeename;
+	private double employeesalary;
+	private String nameOfDepartment;
+	public Employee() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public Employee(long employeeid,String employeeName, double employeeSalary, String nameOfDepartment) {
+		super();
+		this.employeeId=employeeid;
+		this.employeename = employeeName;
+		this.employeesalary = employeeSalary;
+		this.nameOfDepartment = nameOfDepartment;
+	}
+	public long getEmployeeId() {
+		return employeeId;
+		
+	}
+	public void setEmployeeId(long employeeid) {
+		this.employeeId = employeeid;
+	}
+	public String getEmployeeName() {
+		return employeename;
+	}
+	public void setEmployeeName(String employeeName) {
+		this.employeename = employeeName;
+	}
+	public double getEmployeeSalary() {
+		return employeesalary;
+	}
+	public void setEmployeeSalary(double employeeSalary) {
+		this.employeesalary = employeeSalary;
+	}
+	public String getNameOfDepartment() {
+		return nameOfDepartment;
+	}
+	public void setNameOfDepartment(String nameOfDepartment) {
+		this.nameOfDepartment = nameOfDepartment;
+	}
+	
+	
+
+}

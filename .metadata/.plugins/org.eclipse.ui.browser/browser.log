@@ -1,0 +1,102 @@
+
+Sep 06, 2018 24:46:48.68 NEW SESSION
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:48.68 [3756:8892:0906/004648.671:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:46:49.24 [3756:8892:0906/004649.242:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 24:47:33.66 Unable to read VR Path Registry from C:\Users\lpilaka\AppData\Local\openvr\openvrpaths.vrpath
+Sep 06, 2018 24:54:25.71 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.71 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.71 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.71 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.71 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.71 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.72 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.72 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.74 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.74 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:25.74 [1628:11020:0906/005425.698:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 24:54:26.13 [1628:11020:0906/005426.132:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 24:54:26.80 [1628:11020:0906/005426.799:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.083 s for parse_start 1.08 s
+Sep 06, 2018 24:54:26.80 [1628:11020:0906/005426.799:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.083 s for parse_start 1.08 s
+Sep 06, 2018 24:54:27.81 [1628:11020:0906/005427.815:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.083 s for parse_start 1.08 s
+Sep 06, 2018 24:54:28.83 [1628:11020:0906/005428.831:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.083 s for parse_start 1.08 s
+Sep 06, 2018 24:54:30.10 [1628:11020:0906/005430.102:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.083 s for parse_start 1.08 s
+Sep 06, 2018 24:54:32.82 [1628:11020:0906/005432.825:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.083 s for parse_start 1.08 s
+Sep 06, 2018 24:54:32.82 [1628:11020:0906/005432.825:ERROR:page_load_metrics_update_dispatcher.cc(75)] Invalid response_start 1.083 s for parse_start 1.08 s
+Sep 06, 2018 24:55:10.68 Unable to read VR Path Registry from C:\Users\lpilaka\AppData\Local\openvr\openvrpaths.vrpath
+Sep 06, 2018 01:11:22.09 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.11 [14932:2136:0906/011122.066:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:11:22.68 [14932:2136:0906/011122.682:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 01:12:07.06 Unable to read VR Path Registry from C:\Users\lpilaka\AppData\Local\openvr\openvrpaths.vrpath
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:03.61 [9752:13200:0906/011303.587:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:13:04.10 [9752:13200:0906/011304.109:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 01:13:48.57 Unable to read VR Path Registry from C:\Users\lpilaka\AppData\Local\openvr\openvrpaths.vrpath
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.20 [13580:5988:0906/011518.186:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 01:15:18.66 [13580:5988:0906/011518.662:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 01:16:03.17 Unable to read VR Path Registry from C:\Users\lpilaka\AppData\Local\openvr\openvrpaths.vrpath
+
+Sep 06, 2018 03:20:53.73 NEW SESSION
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:53.73 [11556:11448:0906/032053.723:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:20:54.36 [11556:11448:0906/032054.360:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 03:25:21.87 [4556:14936:0906/032521.856:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.87 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.87 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:21.88 [4556:14936:0906/032521.872:ERROR:in_progress_cache_impl.cc(191)] Cache is not initialized, cannot RetrieveEntry.
+Sep 06, 2018 03:25:22.33 [4556:14936:0906/032522.339:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.
+Sep 06, 2018 03:26:06.87 Unable to read VR Path Registry from C:\Users\lpilaka\AppData\Local\openvr\openvrpaths.vrpath
+Sep 06, 2018 05:30:24.59 [14712:5576:0906/053024.599:ERROR:gpu_process_transport_factory.cc(1016)] Lost UI shared context.

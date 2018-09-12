@@ -1,0 +1,46 @@
+package com.capgemini.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import javafx.scene.control.TableColumn;
+
+@WebServlet("/currency")
+public class CurrencyConvertorServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    
+    public CurrencyConvertorServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//response.getWriter().append("Served at: ").append(request.getContextPath());
+		response.setContentType("text/html");
+		PrintWriter out=response.getWriter();
+		out.println("<table style='border:1px solid black' align='center'><tr>");
+		out.println("<th> INDIANRUPEES </th><th>USD</th></tr>");
+		for(int i=1;i<50;i++)
+		{
+			out.println("<tr> <td>");
+			out.println(i);
+			out.println("</td><td>");
+			out.println(i*45);
+			out.println("</td></tr>");
+		}
+		out.println("</table");
+		out.close();
+	}
+
+}

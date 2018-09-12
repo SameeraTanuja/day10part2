@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Employee Page</title>
+</head>
+<body>
+<h1>Employee Login</h1>
+<hr>
+<form action="Employee" method="post">
+<label>EmployeeNumber</label>
+<input type="text" name="employeeId" size="15"/>
+<br><br>
+<input type="submit" value="search"/>
+<br><br>
+</form>
+
+</body>
+</html>

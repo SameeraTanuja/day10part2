@@ -1,0 +1,44 @@
+package com.capgemini;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.ServletContext;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/credit")
+public class CreditDetails extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+	private ServletContext context;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public CreditDetails() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+    
+    @Override
+    public void init(ServletConfig config) throws ServletException{
+    	context=config.getServletContext();
+    }
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.setContentType("text/html");
+		PrintWriter out=response.getWriter();
+		String cardname=request.getParameter("cardname");
+		String cardnumber=request.getParameter("cardnumber");
+		String cvv=request.getParameter("cvv");
+		String expMonth=request.getParameter("expMonth");
+		String expYear=request.getParameter("expYear");
+		}
+
+
+}

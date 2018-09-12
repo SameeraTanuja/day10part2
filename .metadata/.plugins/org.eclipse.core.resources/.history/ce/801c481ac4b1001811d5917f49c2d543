@@ -1,0 +1,5 @@
+package com.capgemini.employee.dao;
+
+public class EmployeeDaoImpl {
+
+}

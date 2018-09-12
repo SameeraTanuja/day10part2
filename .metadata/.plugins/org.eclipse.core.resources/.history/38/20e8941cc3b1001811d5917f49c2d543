@@ -1,0 +1,8 @@
+package com.controller.domain;
+
+public class Employee {
+	private int employeeId;
+	private String employeename;
+	private double employeeSalary;
+
+}
